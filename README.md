@@ -6,7 +6,7 @@ The Vrinda store wants to create an annual sales for 2022,So that,the owner of t
 ## Dataset used
 -<a href="https://github.com/SNEHA-NB/Data-Analysis-Dashboard/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx">Dataset</a>
 
-##Questions (KPIs)
+## Questions (KPIs)
 - Compare the sales snd orders using single chart.
 - Which month get the hightest sales and oredrs?
 - Who purchased more-Men or Women?
@@ -25,13 +25,14 @@ The Vrinda store wants to create an annual sales for 2022,So that,the owner of t
 - Create pivot table according to the question asked.
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
-- ## Dashboard
+## Dashboard
 - ![Vrinda store dashboard](https://github.com/user-attachments/assets/a3534aee-a9a6-436a-ba00-e602ad730a04)
+
 ## Project Insight
 - Women customers are the more likely to buy products compared to men(~65%).
 - The states of Maharastra,Karnataka and Uttar pradesh are the top 3 product buyers.
 - The adult age group(~30-49 yrs) is max contributing (~50%) and buys the most products.
 - The maximum number of products customer ordered from Amazon,Flipkart and Myntra channels.
 
-- ## Final Conclusion:
+## Final Conclusion:
 - To improve the sales of Vrinda store, a strategic marketing plan focused on women aged 30-49 years residing in Maharastra, Karnataka and Uttar Pradesh should be implemented. This Geographic represents the key customers segement, as they often make significant household and lifestyle purchase. The approach should include targeted digital marketing campaigns and personalised promosions to capture their attention.
