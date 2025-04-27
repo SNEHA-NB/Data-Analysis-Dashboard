@@ -20,7 +20,7 @@ The Vrinda store wants to create an annual sales for 2022,So that,the owner of t
 - Dashboard Interaction <a href="https://github.com/SNEHA-NB/Data-Analysis-Dashboard/blob/main/Vrinda%20store%20dashboard.png">View Dashboard</a>
 
 ## Process
-- Verify data for my missing values and ani0malies and sort out the same.
+- Verify data for my missing values and anomalies and sort out the same.
 - Make sure data is consistent and clean with respect to the data type, data formate and values used.
 - Create pivot table according to the question asked.
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
